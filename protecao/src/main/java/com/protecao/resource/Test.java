@@ -13,6 +13,7 @@ public class Test {
 	public String getHello() {
 		return "Funcionando no ar!";
                 return "Alterando pelo Github!";
+                System.out.println("ECLIPSE AO GIT");
 
 	}
 
