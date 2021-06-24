@@ -12,6 +12,7 @@ public class Test {
 	@GetMapping
 	public String getHello() {
 		return "Funcionando no ar!";
+                return "Alterando pelo Github!";
 
 	}
 
